@@ -1,0 +1,63 @@
+.navbar-logo {
+  width: 300px;
+}
+.logo h2 {
+  width: 300px;
+  text-align: center;
+
+  font-size: 25px;
+}
+.flex-item li a {
+  font-size: 10px;
+  margin: 5px;
+  padding: 5px;
+}
+.about-myself {
+  font-size: 1.5rem;
+  text-align: center;
+}
+.about-article-img {
+  flex-direction: column;
+  gap: 15px;
+}
+.text-height {
+  height: 200px;
+  overflow: scroll;
+}
+.experince-flex-item {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.project {
+  width: 100%;
+  height: 500px;
+  border: none;
+}
+.experience-box {
+  width: 100%;
+}
+
+.flex-item {
+  display: none;
+}
+.article {
+  width: 100%;
+  padding: 10px;
+}
+.contact-width-flex {
+  justify-content: center;
+  flex-direction: column;
+}
+.contact-width-item {
+  width: 100%;
+}
+.address {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hambar {
+  display: block;
+  padding-right: 10px;
+}

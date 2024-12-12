@@ -1,8 +1,6 @@
-.navbar-logo {
-  width: 300px;
-}
+
 .logo h2 {
-  width: 300px;
+
   text-align: center;
 
   font-size: 25px;
@@ -20,38 +18,34 @@
   flex-direction: column;
   gap: 15px;
 }
-.text-height {
-  height: 200px;
-  overflow: scroll;
-}
+
 .experince-flex-item {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  /* width: 350px; */
 }
 .project {
-  width: 100%;
+  width: 80%;
   height: 500px;
   border: none;
 }
-.experience-box {
-  width: 100%;
-}
+/* .experience-box {
+  width: 90%;
+} */
 
 .flex-item {
   display: none;
 }
 .article {
-  width: 100%;
+
   padding: 10px;
 }
 .contact-width-flex {
   justify-content: center;
   flex-direction: column;
 }
-.contact-width-item {
-  width: 100%;
-}
+
 .address {
   display: flex;
   align-items: center;
@@ -60,4 +54,5 @@
 .hambar {
   display: block;
   padding-right: 10px;
+  color: white;
 }

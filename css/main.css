@@ -170,7 +170,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border: 2px solid red;
+
 }
 
 .h2-section-font-size {
@@ -375,7 +375,7 @@ body {
 
   justify-content: center;
   align-items: center;
-  border: 2px solid red;
+ 
 }
 
 .project {
